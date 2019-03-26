@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/description=
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/enabled=true
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/isSystem=false
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/name=Eclipse RAP e4 Runtime 3.5
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/provider=
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/suffix=compositeContent.xml
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/type=org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/uri=http\://download.eclipse.org/rt/rap/3.5/e4/
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4/version=1.0.0
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/enabled=false
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/isSystem=true
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/name=RAP Runtime e4
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/suffix=content.xml.xz
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/uri=http\://download.eclipse.org/rt/rap/3.5/e4/R-20180613-1725
+repositories/http\:__download.eclipse.org_rt_rap_3.5_e4_R-20180613-1725/version=1.0.0

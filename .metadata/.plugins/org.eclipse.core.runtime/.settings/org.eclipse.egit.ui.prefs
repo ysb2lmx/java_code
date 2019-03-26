@@ -1,0 +1,4 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>20190326</message>\r\n<message>\u4EE3\u7801\u63D0\u4EA4</message>\r\n<message>java\u6570\u636E\u5E93\u64CD\u4F5C\u4EE3\u7801</message>\r\n<message>\u6768\u5C11\u535A\u7B2C\u4E00\u6B21\u63D0\u4EA4\u81EA\u5DF1\u5EFA\u7ACB\u7684java\u5305\u6587\u4EF6\uFF0C\u5F53\u524D\u5F88\u591A\u90FD\u662F\u7A7A\u5305</message>\r\n</messages>
+eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

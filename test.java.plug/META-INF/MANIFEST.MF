@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plug
+Bundle-SymbolicName: test.java.plug
+Bundle-Version: 1.0.0
+Automatic-Module-Name: test.java.plug
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: test.java

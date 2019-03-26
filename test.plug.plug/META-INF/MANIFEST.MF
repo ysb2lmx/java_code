@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plug
+Bundle-SymbolicName: test.plug.plug;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ test.plug;bundle-version="1.0.0"
+Automatic-Module-Name: test.plug.plug
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

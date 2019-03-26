@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Develop
+Bundle-SymbolicName: com.sbyang.rcp.develop;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: SBYANG
+Require-Bundle: org.eclipse.ui
+Automatic-Module-Name: com.sbyang.rcp.develop
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

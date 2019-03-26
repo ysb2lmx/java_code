@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="MQ_MANAGER"/>
+			<item value="XMLException"/>
+			<item value="192.168.10."/>
+			<item value="000000000000000000"/>
+			<item value="20181018001802827720"/>
+			<item value="QM_PICP_313193057846"/>
+			<item value="MQJE001"/>
+			<item value="MQEnvironment"/>
+			<item value="MQQueueManager"/>
+			<item value="getDepth"/>
+			<item value="Base64"/>
+			<item value="InputStream"/>
+			<item value="StringUtil"/>
+			<item value="deleteFile"/>
+			<item value="get"/>
+		</list>
+		<list key="replacehistory">
+			<item value="public static"/>
+			<item value="\\"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="300" key="DIALOG_WIDTH"/>
+		<item value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI" key="DIALOG_FONT_NAME"/>
+		<item value="410" key="DIALOG_HEIGHT"/>
+		<item value="1359" key="DIALOG_X_ORIGIN"/>
+		<item value="338" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
